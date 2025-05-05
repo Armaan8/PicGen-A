@@ -35,9 +35,11 @@ yarn-error.log*
 .env.production
 .env.development
 
-# vercel
 .vercel
 
-# typescript
 *.tsbuildinfo
 next-env.d.ts
+all-text.md
+database.types
+
+/src/components/landing-page
